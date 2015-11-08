@@ -1,0 +1,16 @@
+<ion-view title="ปักหมุดจาก JSON">
+
+  <ion-nav-buttons side="right">
+    <button ng-click="locate();" class="button button-icon icon ion-pinpoint"></button>
+  </ion-nav-buttons>
+
+  <ion-content data-tap-disabled="true">
+    <leaflet
+      center="center"
+      markers="markers"
+      layers="layers"
+      geojson="geojson">
+    </leaflet>
+  </ion-content>
+
+</ion-view>

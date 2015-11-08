@@ -1,0 +1,32 @@
+{"success":true ,"gisdata":{
+    "m1": {
+      "layer" :"dm",
+      "lat": 16,
+      "lng": 100,
+      "label": {
+        "message": "นายทองดำ = DM",
+        "options": {
+          "noHide": true
+        }
+      },
+      "icon": {
+        "iconUrl": "img/home_icon.png",
+        "iconSize": [42, 42]
+      }
+    },
+  "m2": {
+    "layer" :"ht",
+    "lat": 16.0342,
+    "lng": 99.90123,
+    "label": {
+      "message": "นายทองดำ = HT",
+      "options": {
+        "noHide": true
+      }
+    },
+    "icon": {
+      "iconUrl": "img/home_icon.png",
+      "iconSize": [42, 42]
+    }
+  }
+}}
