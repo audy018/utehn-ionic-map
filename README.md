@@ -1,8 +1,6 @@
 # utehn-ionic-map
-- การพัฒนา GIS Application ด้วย ionic + leaflet
-- การทำตัวเลือกแผนที่ฐาน (Base Map)
-- การปักหมุดจาก Array
-- การปักหมุดจาก JSON
+- template  GIS Application using ionic + leaflet
+
 
 #Installation
 <br/>
